@@ -51,3 +51,12 @@ Month Moving Averages
 e.Function: AVG() OVER() with frame specification (ROWS BETWEEN 2 PRECEDING AND CURRENT ROW).
 Goal: Calculate rolling averages of sales to smooth fluctuations.
 Business Value: Identifies stable sales trends by reducing the effect of seasonal spikes or sudden drops.
+
+step5:
+Results Analysis
+
+Descriptive: Identified top-selling products and regional differences.
+
+Diagnostic: Sales drops linked to seasonal demand; Kigali had highest sales.
+
+Prescriptive: Increase stock of top products in Kigali, launch promotions in Rubavu to boost sales.
