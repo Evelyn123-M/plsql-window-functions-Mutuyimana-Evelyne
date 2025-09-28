@@ -16,11 +16,11 @@ Without this insight, business decisions (e.g., promotions, stock management, an
 b.Expected Outcome
 
 Using PL/SQL window functions, UrbanMart aims to:
-Identify top products per region and quarter.
-Track running totals and sales trends.
-Measure month-to-month growth in sales.
-Segment customers into quartiles for marketing.
-Provide clear, actionable insights to support stocking, promotions, and customer loyalty programs.
+1.Identify top products per region and quarter.
+2.Track running totals and sales trends.
+3.Measure month-to-month growth in sales.
+4.Segment customers into quartiles for marketing.
+5.Provide clear, actionable insights to support stocking, promotions, and customer loyalty programs.
 
 Step 2: Success Criteria
 
@@ -55,8 +55,21 @@ Business Value: Identifies stable sales trends by reducing the effect of seasona
 step5:
 Results Analysis
 
-Descriptive: Identified top-selling products and regional differences.
+1.Descriptive: Identified top-selling products and regional differences.
+2.Diagnostic: Sales drops linked to seasonal demand; Kigali had highest sales.
+3.Prescriptive: Increase stock of top products in Kigali, launch promotions in Rubavu to boost sales.
 
-Diagnostic: Sales drops linked to seasonal demand; Kigali had highest sales.
+6.References
 
-Prescriptive: Increase stock of top products in Kigali, launch promotions in Rubavu to boost sales.
+1.Oracle Documentation – Window Functions
+2.W3Schools – SQL OVER() Clause
+3.GeeksforGeeks – Analytical Functions
+4.TutorialsPoint – PL/SQL Advanced Features
+5.Database Design Textbook
+6.StackOverflow Discussions (cited with links)
+7.oracle Academy Course Notes
+
+7. Integrity Statement
+
+“All sources were properly cited. Implementations and analysis represent original work.
+No AI-generated content was copied without attribution or adaptation.”
