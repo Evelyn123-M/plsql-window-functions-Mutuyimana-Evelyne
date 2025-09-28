@@ -61,13 +61,15 @@ Results Analysis
 
 6.References
 
-1.Oracle Documentation – Window Functions
-2.W3Schools – SQL OVER() Clause
-3.GeeksforGeeks – Analytical Functions
-4.TutorialsPoint – PL/SQL Advanced Features
-5.Database Design Textbook
-6.StackOverflow Discussions (cited with links)
-7.oracle Academy Course Notes
+Oracle Documentation – Analytic and Window Functions
+
+1.Oracle PL/SQL Language Reference – PL/SQL Overview
+
+2.W3Schools – SQL Window Functions
+
+3.GeeksforGeeks – SQL Window Functions
+
+4.TutorialsPoint – PL/SQL Tutorial
 
 7. Integrity Statement
 
